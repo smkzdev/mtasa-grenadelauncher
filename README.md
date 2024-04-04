@@ -3,19 +3,6 @@
 
 Extremely accurate and configurable grenade launcher for the MTA:SA
 
-
-## Supported file types
-It is compatible with various file types, however, I haven't tested all of them. Those marked with ⚠️ indicate uncertainty.
-| Extension   | Status  |
-| :---------- | :--------- | 
-| `TXD` | ✅ | 
-| `DFF` | ✅ | 
-| `COL` | ✅ | 
-| `PNG` | ✅ | 
-| `JPG/JPEG` | ✅ | 
-| `SOUNDS FILES` | ⚠️ | 
-
-
 ## Environment Variables
 Available settings in the config.lua file
 | Variable   | Description  |
