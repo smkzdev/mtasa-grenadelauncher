@@ -2,6 +2,7 @@
 # Grenade Launcher MTA:SA
 
 Extremely accurate and configurable grenade launcher for the MTA:SA
+Demo: https://www.youtube.com/watch?v=7QrH6el6zOk&ab_channel=smkz
 
 ## Environment Variables
 Available settings in the config.lua file
