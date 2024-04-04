@@ -1,7 +1,7 @@
 
 # Grenade Launcher MTA:SA
 
-Extremely accurate and configurable grenade launcher for the MTA:SA
+Extremely accurate and configurable grenade launcher for the MTA:SA <br>
 Demo: https://www.youtube.com/watch?v=7QrH6el6zOk&ab_channel=smkz
 
 ## Environment Variables
