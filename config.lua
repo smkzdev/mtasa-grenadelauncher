@@ -1,0 +1,4 @@
+WEAPON_ID = 25
+WEAPON_MODEL_ID = 349 -- 0 for no replace
+STRENGHT = 0.4
+DELAY_SHOT = 200
